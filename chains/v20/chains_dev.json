@@ -3919,6 +3919,9 @@
                 "assetId": 0,
                 "symbol": "ASTR",
                 "priceId": "astar",
+                "staking": [
+                    "dappStaking"
+                ],
                 "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/chains/white/Astar.svg",
                 "precision": 18,
                 "buyProviders": {
