@@ -64,10 +64,6 @@
         "name": "Mangata Public Testnet"
     },
     {
-        "chainId": "38656c27a232ae030ad8262ef9d6e6c63ca9fe68affbf5db26a4159340621210",
-        "name": "MD5 Network"
-    },
-    {
         "chainId": "15f6788bcf1d1a3b7e1c36074584e1a3f3d07e0a46e362a102c3c3df1a93669f",
         "name": "Muse Testnet"
     },
@@ -140,6 +136,10 @@
         "name": "Frequency Paseo"
     },
     {
+        "chainId": "6a2f9e22feb677ca03b1887493ad5eeb240d6133b5b89999b76ab3695a036c64",
+        "name": "HydraDX testnet"
+    },
+    {
         "chainId": "5388faf792c5232566d21493929b32c1f20a9c2b03e95615eefec2aa26d64b73",
         "name": "Hyperbridge (Gargantua)"
     },
@@ -152,10 +152,6 @@
         "name": "Laos Sigma Testnet"
     },
     {
-        "chainId": "cf10d9b02d5daf4eb9ccec31f7dba1b719538b5c9fb672342ed8ec13d765c181",
-        "name": "Muse Paseo"
-    },
-    {
         "chainId": "65c489fb7bfaf4a27f283faf694a64a8d7ae8fc0ed970fc4ebbf25d03095e4d0",
         "name": "Niskala"
     },
@@ -164,12 +160,24 @@
         "name": "Parachain Hades testnet"
     },
     {
+        "chainId": "466edf864b4314b97f36e45ec21ddb39e0bdc52789377b91be0957d5afad2eb2",
+        "name": "Energy Web X Paseo"
+    },
+    {
         "chainId": "e8b2d197b82a0da1fffca832c050894ebe343b289c61ef439aa694bdcef78aa1",
         "name": "Pop Network Testnet"
     },
     {
         "chainId": "d6eec26135305a8ad257a20d003357284c8aa03d0bdb2b357ab0a22371e11ef2",
         "name": "Paseo Asset Hub"
+    },
+    {
+        "chainId": "cc624979479dc37afee4cb23cb72b1772bbf377c0d3e8fa257c0fe6146572e3e",
+        "name": "Paseo Bridge Hub"
+    },
+    {
+        "chainId": "e6c30d6e148f250b887105237bcaa5cb9f16dd203bf7b5b9d4f1da7387cb86ec",
+        "name": "Paseo People"
     },
     {
         "chainId": "63e1e2390bf7758f2462ad22b950e7e191f3500226ba6f572346ac06ced516fe",
@@ -228,16 +236,16 @@
         "name": "Analog Testnet"
     },
     {
+        "chainId": "d7ebc2b761b7408325a211eabb7582a79a4d3e50c55a60bb0995f7ab4e8e6474",
+        "name": "Argon Testnet"
+    },
+    {
         "chainId": "15b34a3b7443c73fa1f687cce2d8e5981f6a2eaad54809a6b6af28e83d2adaff",
         "name": "BIFROST Testnet"
     },
     {
         "chainId": "c2e43792c8acc075e564558f9a2184a0ffe9b0fd573969599eee9b647358c6cf",
         "name": "Creditcoin PoS Testnet"
-    },
-    {
-        "chainId": "7a5d4db858ada1d20ed6ded4933c33313fc9673e5fffab560d0ca714782f2080",
-        "name": "Chainflip-Perseverance"
     },
     {
         "chainId": "fc4ec97a1c1f119c4353aecb4a17c7c0cf7b40d5d660143d8bad9117e9866572",
@@ -294,10 +302,6 @@
     {
         "chainId": "418040fc282f5e5ddd432c46d05297636f6f75ce68d66499ff4cbda69ccd180b",
         "name": "Subspace Gemini 3g"
-    },
-    {
-        "chainId": "f886504521519f9acd6205d9af3736ba00801f0b428bd08438d963bde3d5aeb8",
-        "name": "Subspace Gemini 3g EVM Domain"
     },
     {
         "chainId": "0c121c75f4ef450f40619e1fca9d1e8e7fbabc42c895bc4790801e85d5a91c34",
